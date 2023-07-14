@@ -1,0 +1,6 @@
+[book]
+authors = ["Alex Palmer"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Steam Deck Tips & Tricks"
