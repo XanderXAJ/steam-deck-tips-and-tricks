@@ -36,3 +36,7 @@ So keep in mind the end goal: this backup needs to be kept somewhere separate fr
 
 3. Back up this file somewhere secure where you could use it on a recovery machine in future.
     _Do not keep it **only** on the Steam Deck!_
+
+## Restoring the backup
+
+See [the following guide on Reddit](https://www.reddit.com/r/SteamDeck/comments/123ml95/how_to_reflash_your_steam_deck_bios_chip/).
