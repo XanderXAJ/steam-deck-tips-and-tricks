@@ -24,9 +24,8 @@ This guide instead will highlight a few of the things that I care about: ease of
 
 ### EmuDeck Disadvantages vs. Manual Installation
 
-- EmuDeck works best when it manages everything. If you want to make changes to the configuration, you might face an uphill battle in makiing changes to it -- and it might get reset whenever an update occurs.
+- EmuDeck works best when it manages everything. Its configuration is opinionated. If you want to make changes to the configuration, you might face an uphill battle in makiing changes to it -- and it might get reset whenever an update occurs.
     - This depends from emulator to emulator and how it stores its configuration. For example, without taking over all configuration yourself, it's reasonably simple to retain your customisations on RetroArch platforms [using content directory and game configuration overrides](https://docs.libretro.com/guides/overrides/).
-- Configuration provided is opinionated -- this is often
 
 ## Mixing and matching automatic and manual installation
 
