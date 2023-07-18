@@ -12,7 +12,12 @@ There are multiple options out there; I have experience with EmuDeck:
 - [RetroDeck](https://retrodeck.net/)
 
 This guide does not aim to provide a detailed review of the different installers available -- other sources can provide that information.
-This guide instead will highlight a few of the things that I care about: ease of use, configuration management (and letting you take control), and maintenance.
+This guide instead will highlight a few of the things that I care about:
+
+- Ease of use
+- Configuration management (can you take control?)
+- How easy it is to restore settings if you reset your Deck or get a new one
+- Updates & maintenance
 
 ### EmuDeck Advantages vs. Manual Installation
 
