@@ -2,12 +2,12 @@
 
 ## While turned off
 
-- Volume+ & Power: [Boot in to UEFI](../advanced/boot-into-bios.md)
+- Volume+ & Power: [Boot in to UEFI](../advanced/boot-into-uefi.md)
 - Volume- & Power: Boot Menu
     - This allows you to boot from an external (e.g. USB) medium, or from a different partition in multi-partition setups.
 
 Note that, contrary to some suggestions you might have seen, there is currently no way to reset the UEFI/BIOS settings with a key combination.
-[Be sure to back it up before tinkering!](../advanced/back-up-bios.md)
+[Be sure to back it up before tinkering!](../advanced/back-up-uefi.md)
 
 ## In Game Mode
 

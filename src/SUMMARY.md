@@ -10,5 +10,5 @@
 
 # ⚠️ Advanced
 
-- [Back up UEFI/BIOS/SPI](./advanced/back-up-bios.md)
-- [Boot into BIOS](./advanced/boot-into-bios.md)
+- [Back up UEFI/BIOS/SPI](./advanced/back-up-uefi.md)
+- [Boot into BIOS](./advanced/boot-into-uefi.md)
