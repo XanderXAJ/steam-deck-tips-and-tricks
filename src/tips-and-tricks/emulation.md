@@ -25,6 +25,7 @@ This guide instead will highlight a few of the things that I care about:
 - It's easy to update the emulators too -- either via the Discovery app, when running the emulator, or re-running EmuDeck, depending on how the emulator is packaged.
 - Makes it easy to list games or emulators in the Steam interface using [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/).
 - Adds extra features like cloud saves, synchronisation, etc.
+- It's reasonably easy to restore settings on a new/reset Deck, albeit some emulators will need additional steps.
 - If you find an issue or want to extend something, the EmuDeck community are active working with you to finding and applying solutions [example](https://github.com/dragoonDorise/EmuDeck/pull/465).
 
 ### EmuDeck Disadvantages vs. Manual Installation
